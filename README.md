@@ -50,7 +50,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link](https://math-magician-l9vh.onrender.com)
+[Live Demo Link](https://premier-league-d6b3.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
