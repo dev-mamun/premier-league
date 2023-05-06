@@ -28,6 +28,8 @@
 
 **Premier League** is a SPA that displays premier league teams. Each team stats can be accessed separtely when clicked.
 
+Here is a [video](https://www.loom.com/share/1a06ec5f905a40ec8cc198fa399e7b80) presentation of the project
+
 ### 🛠 Tech Stack <a name="tech-stack"></a>
 
 - React
@@ -89,7 +91,7 @@ project page and clicking on `Download ZIP`
 Install this project with:
 
 ```sh
-  cd premier-league  
+  cd premier-league
   npm install
   npm run build
 ```
